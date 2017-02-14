@@ -1,0 +1,112 @@
+		#profile {
+			height: 250px;
+			width: 20%;
+		}
+		#about {
+			height: 250px;
+			width: 80%;
+		}
+		#programming {
+			height: 270px;
+			width: 50%;
+		}
+		#technology {
+			height: 270px;
+			width: 50%;
+		}
+		.graph {
+			background-color: #E4EBEC;
+			display: inline-flex;
+			width: 100%;
+		}
+		.top {
+			padding: 10px;
+			display: inline-flex;
+			width: 100%;
+		}
+		div{
+
+			padding: 0px;
+		}
+		.life {
+			text-align-last: center;	
+			background-color: #F8F8F7;
+			display: inline-flex;
+			width: 100%;
+		}
+		#work {
+			height: 210px;
+			width: 48%;
+		}
+		#image {
+			height: 210px;
+			width: 20%;
+		}
+		#play {
+			height: 210px;
+			width: 48%;
+		}
+		.connect {
+			display: inline-flex;
+			width: 100%;
+		}
+		#social {
+			margin: 25px 3px 3px 290px;
+			height: 120px;
+			width: 60%;
+		}
+		#qr {
+			height: 120px;
+			display: inline-flex;
+			width: 20%;
+		}
+		.footer {
+			background-color: gray;
+			display: inline-flex;
+			width: 100%;
+			text-align: center;
+		}
+		#left {
+			height: 25px;
+			width: 30%;
+		}
+		#middle{
+			height: 25px;
+			width: 40%;
+		}
+		#right {
+			background-color: gray;
+			height: 25px;
+			width: 30%;
+		}
+		body{
+			font-family: cursive;
+			background-color: #E4EBEC;
+		}
+		.graph p{
+			font-family: cursive;
+			font-size: 18px;	
+		} 
+		#work p{
+			float: left;
+		}
+		span{
+			color: #84CEE1;
+		}
+		#profile img{
+			margin: 25px 3px 0px 55px;
+			height: 200px;
+			border-radius:50%; 
+			width: 200px;
+		}
+		.top h1{
+			font-family: cursive;	
+		} 
+		#qr img{
+			height: 120px;
+			width: 120px;
+		}
+		#qr p{
+			padding: 10px;
+			display: inline-block;
+		}
